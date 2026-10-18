@@ -1,0 +1,8 @@
+Git Commands
+
+git init: 저장소 초기화
+git status: 저장소 상태 확인
+git add .: 변경 파일 추가
+git commit -m "message": 변경 사항 기록
+git log --oneline: 커밋 기록 확인
+git push: GitHub에 업로드
