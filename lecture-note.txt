@@ -1,0 +1,10 @@
+Lecture 6
+
+Version Control: 파일의 변경 이력을 관리
+
+Git: 파일의 버전을 관리하고 협업할 때 사용
+
+git init: 저장소 초기화
+git add: 파일을 추가
+git commit: 변경 사항 기록
+git push: GitHub에 업로드
